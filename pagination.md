@@ -1,6 +1,3 @@
-
-# Pagination
-
 ## Hello world
 
 * Option 1
