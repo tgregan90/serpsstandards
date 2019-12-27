@@ -1,2 +1,2 @@
-#hello world \n
+#hello world
 test edit
