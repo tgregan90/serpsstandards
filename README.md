@@ -1,1 +1,1 @@
-# SERPs Standards
+# SERP Standards
